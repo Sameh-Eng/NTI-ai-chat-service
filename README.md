@@ -22,7 +22,7 @@ A modern AI chatbot service powered by Google Gemini with multiple interfaces in
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-chat-service.git
+   git clone https://github.com/Eng-Sameh/NTI-ai-chat-service.git
    cd ai-chat-service
    ```
 
